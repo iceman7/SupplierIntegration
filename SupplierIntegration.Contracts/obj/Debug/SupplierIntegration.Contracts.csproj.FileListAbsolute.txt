@@ -1,0 +1,5 @@
+c:\projects\SupplierIntegration\SupplierIntegration.Contracts\bin\Debug\SupplierIntegration.Contracts.dll
+c:\projects\SupplierIntegration\SupplierIntegration.Contracts\bin\Debug\SupplierIntegration.Contracts.pdb
+c:\projects\SupplierIntegration\SupplierIntegration.Contracts\obj\Debug\SupplierIntegration.Contracts.csprojResolveAssemblyReference.cache
+c:\projects\SupplierIntegration\SupplierIntegration.Contracts\obj\Debug\SupplierIntegration.Contracts.dll
+c:\projects\SupplierIntegration\SupplierIntegration.Contracts\obj\Debug\SupplierIntegration.Contracts.pdb

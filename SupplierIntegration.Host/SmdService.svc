@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" 
+    Service="SupplierIntegration.Service.SmdService"  %>

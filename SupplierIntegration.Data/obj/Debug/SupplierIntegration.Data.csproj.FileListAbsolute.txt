@@ -1,0 +1,10 @@
+c:\projects\SupplierIntegration\SupplierIntegration.Data\bin\Debug\SupplierIntegration.Data.dll.config
+c:\projects\SupplierIntegration\SupplierIntegration.Data\bin\Debug\SupplierIntegration.Data.dll
+c:\projects\SupplierIntegration\SupplierIntegration.Data\bin\Debug\SupplierIntegration.Data.pdb
+c:\projects\SupplierIntegration\SupplierIntegration.Data\bin\Debug\EntityFramework.dll
+c:\projects\SupplierIntegration\SupplierIntegration.Data\bin\Debug\SupplierIntegration.Contracts.dll
+c:\projects\SupplierIntegration\SupplierIntegration.Data\bin\Debug\SupplierIntegration.Contracts.pdb
+c:\projects\SupplierIntegration\SupplierIntegration.Data\bin\Debug\EntityFramework.xml
+c:\projects\SupplierIntegration\SupplierIntegration.Data\obj\Debug\SupplierIntegration.Data.csprojResolveAssemblyReference.cache
+c:\projects\SupplierIntegration\SupplierIntegration.Data\obj\Debug\SupplierIntegration.Data.dll
+c:\projects\SupplierIntegration\SupplierIntegration.Data\obj\Debug\SupplierIntegration.Data.pdb
